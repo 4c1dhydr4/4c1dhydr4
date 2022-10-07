@@ -1,5 +1,4 @@
 -👋 Hi, I’m Luis Quiroz
--👀 I’m interested in django project
+-👀 I’m interested in Python and Django projects
 -📫 How to reach me quirozburga@gmail.com
--I <3 python :)
--This is my personal website: https://luisquiroz.xyz/
+-This is my portfolio: https://luisquiroz.xyz/
